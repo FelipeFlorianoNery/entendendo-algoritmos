@@ -13,7 +13,7 @@ Este repositório documenta a minha jornada de estudos e implementações dos c�
 ## 📂 Estrutura do Repositório
 Abaixo está o meu progresso ao longo dos capítulos do livro. Marcarei com um `[x]` conforme for concluindo cada etapa:
 
-- [ ] **Capítulo 1:** Introdução a algoritmos (Pesquisa Binária)
+- [X] **Capítulo 1:** Introdução a algoritmos (Pesquisa Binária)
 - [ ] **Capítulo 2:** Ordenação por seleção
 - [ ] **Capítulo 3:** Recursão
 - [ ] **Capítulo 4:** Quicksort
